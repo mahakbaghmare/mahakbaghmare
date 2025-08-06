@@ -5,7 +5,7 @@
 - 🌱 I’m learning **JWT, MongoDB, and full-stack development**
 - 👯 I’m looking to collaborate on **open-source Node.js projects**
 - 💬 Ask me about **Node.js, Express, MongoDB, Git**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **adityabaghmare93@email.com**
 - ⚡ Fun fact: *I love clean code & chai ☕*
 
 ---
